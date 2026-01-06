@@ -7,6 +7,15 @@
 <img width="903" height="531" alt="diagram-export-1-5-2026-8_31_21-PM" src="https://github.com/user-attachments/assets/9dc5bb9c-773e-4c1b-a870-c6f2d10e2443" />
 
 ## Setup
+#### Prerequisites:
+- Create a Databricks account
+- Install PowerBI
+- Install Docker and Docker-compose
+- Connect Databricks to PowerBI by going to Compute -> Serverless Starter Warehouse -> Connection Details -> PowerBI -> Download and run file, sign in to Databricks when prompted
+- Add raw CSV files to a Databricks volume 
+- Create Databricks notebooks using the scripts in this repository under the databricks_notebooks folder
+- Save these paths, replace current paths in dags/databricks_dag.py
+---
 1. Start the Airflow Docker container: `docker compose up -d`
 2. Navigate to `http://localhost:8080/`
 3. Sign in with following credentials:
