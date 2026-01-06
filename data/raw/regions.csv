@@ -1,0 +1,1001 @@
+region_id,country,region_name
+1,UK,Europe
+2,USA,North America
+3,Canada,North America
+4,UK,Europe
+5,Germany,Europe
+6,India,Asia
+7,Canada,North America
+8,Germany,Europe
+9,USA,North America
+10,Canada,North America
+11,Germany,Europe
+12,UK,Europe
+13,USA,North America
+14,Germany,Europe
+15,USA,North America
+16,Germany,Europe
+17,India,Asia
+18,UK,Europe
+19,Canada,North America
+20,Germany,Europe
+21,USA,North America
+22,UK,Europe
+23,Canada,North America
+24,USA,North America
+25,UK,Europe
+26,USA,North America
+27,Australia,APAC
+28,Australia,APAC
+29,UK,Europe
+30,Canada,North America
+31,Canada,North America
+32,USA,North America
+33,UK,Europe
+34,Germany,Europe
+35,Australia,APAC
+36,Canada,North America
+37,Australia,APAC
+38,Germany,Europe
+39,Germany,Europe
+40,India,Asia
+41,USA,North America
+42,USA,North America
+43,USA,North America
+44,UK,Europe
+45,Canada,North America
+46,Canada,North America
+47,India,Asia
+48,Australia,APAC
+49,India,Asia
+50,India,Asia
+51,Germany,Europe
+52,USA,North America
+53,UK,Europe
+54,Canada,North America
+55,UK,Europe
+56,USA,North America
+57,USA,North America
+58,Canada,North America
+59,Germany,Europe
+60,Australia,APAC
+61,India,Asia
+62,Germany,Europe
+63,USA,North America
+64,USA,North America
+65,Germany,Europe
+66,India,Asia
+67,India,Asia
+68,USA,North America
+69,Australia,APAC
+70,India,Asia
+71,India,Asia
+72,Canada,North America
+73,Australia,APAC
+74,Canada,North America
+75,UK,Europe
+76,Germany,Europe
+77,USA,North America
+78,India,Asia
+79,UK,Europe
+80,Canada,North America
+81,India,Asia
+82,Germany,Europe
+83,Canada,North America
+84,Australia,APAC
+85,Australia,APAC
+86,USA,North America
+87,India,Asia
+88,UK,Europe
+89,USA,North America
+90,India,Asia
+91,India,Asia
+92,India,Asia
+93,India,Asia
+94,India,Asia
+95,USA,North America
+96,Germany,Europe
+97,Germany,Europe
+98,USA,North America
+99,Australia,APAC
+100,Germany,Europe
+101,UK,Europe
+102,UK,Europe
+103,Australia,APAC
+104,USA,North America
+105,UK,Europe
+106,USA,North America
+107,UK,Europe
+108,Canada,North America
+109,Australia,APAC
+110,Australia,APAC
+111,Australia,APAC
+112,USA,North America
+113,India,Asia
+114,Australia,APAC
+115,UK,Europe
+116,Canada,North America
+117,USA,North America
+118,UK,Europe
+119,India,Asia
+120,UK,Europe
+121,Australia,APAC
+122,Canada,North America
+123,Australia,APAC
+124,Germany,Europe
+125,Australia,APAC
+126,Germany,Europe
+127,Australia,APAC
+128,Canada,North America
+129,Canada,North America
+130,USA,North America
+131,Australia,APAC
+132,Germany,Europe
+133,USA,North America
+134,UK,Europe
+135,Canada,North America
+136,USA,North America
+137,Canada,North America
+138,USA,North America
+139,UK,Europe
+140,UK,Europe
+141,India,Asia
+142,Germany,Europe
+143,India,Asia
+144,Germany,Europe
+145,UK,Europe
+146,USA,North America
+147,Australia,APAC
+148,Canada,North America
+149,UK,Europe
+150,UK,Europe
+151,USA,North America
+152,Australia,APAC
+153,UK,Europe
+154,UK,Europe
+155,USA,North America
+156,UK,Europe
+157,Germany,Europe
+158,Germany,Europe
+159,Australia,APAC
+160,Germany,Europe
+161,Germany,Europe
+162,UK,Europe
+163,Canada,North America
+164,Germany,Europe
+165,Australia,APAC
+166,Germany,Europe
+167,UK,Europe
+168,India,Asia
+169,UK,Europe
+170,USA,North America
+171,Australia,APAC
+172,Germany,Europe
+173,USA,North America
+174,Germany,Europe
+175,India,Asia
+176,Canada,North America
+177,India,Asia
+178,UK,Europe
+179,UK,Europe
+180,USA,North America
+181,USA,North America
+182,UK,Europe
+183,Australia,APAC
+184,UK,Europe
+185,UK,Europe
+186,Germany,Europe
+187,India,Asia
+188,Australia,APAC
+189,Germany,Europe
+190,Canada,North America
+191,Australia,APAC
+192,Germany,Europe
+193,UK,Europe
+194,Germany,Europe
+195,USA,North America
+196,Australia,APAC
+197,UK,Europe
+198,India,Asia
+199,Germany,Europe
+200,UK,Europe
+201,Australia,APAC
+202,USA,North America
+203,USA,North America
+204,Australia,APAC
+205,Australia,APAC
+206,Germany,Europe
+207,UK,Europe
+208,India,Asia
+209,Australia,APAC
+210,Australia,APAC
+211,Canada,North America
+212,USA,North America
+213,Canada,North America
+214,India,Asia
+215,Australia,APAC
+216,Germany,Europe
+217,USA,North America
+218,Canada,North America
+219,USA,North America
+220,Canada,North America
+221,Australia,APAC
+222,UK,Europe
+223,UK,Europe
+224,Germany,Europe
+225,India,Asia
+226,USA,North America
+227,India,Asia
+228,Canada,North America
+229,Australia,APAC
+230,Germany,Europe
+231,UK,Europe
+232,UK,Europe
+233,Germany,Europe
+234,USA,North America
+235,India,Asia
+236,Canada,North America
+237,India,Asia
+238,UK,Europe
+239,Germany,Europe
+240,UK,Europe
+241,Australia,APAC
+242,UK,Europe
+243,Canada,North America
+244,USA,North America
+245,USA,North America
+246,Australia,APAC
+247,Canada,North America
+248,Germany,Europe
+249,India,Asia
+250,Germany,Europe
+251,India,Asia
+252,USA,North America
+253,UK,Europe
+254,UK,Europe
+255,Australia,APAC
+256,Germany,Europe
+257,Canada,North America
+258,India,Asia
+259,UK,Europe
+260,Australia,APAC
+261,Germany,Europe
+262,Canada,North America
+263,USA,North America
+264,Canada,North America
+265,USA,North America
+266,Germany,Europe
+267,Canada,North America
+268,Australia,APAC
+269,Germany,Europe
+270,USA,North America
+271,Australia,APAC
+272,UK,Europe
+273,Australia,APAC
+274,UK,Europe
+275,Australia,APAC
+276,USA,North America
+277,India,Asia
+278,India,Asia
+279,UK,Europe
+280,UK,Europe
+281,Canada,North America
+282,Australia,APAC
+283,Australia,APAC
+284,Australia,APAC
+285,Australia,APAC
+286,Canada,North America
+287,UK,Europe
+288,India,Asia
+289,Canada,North America
+290,USA,North America
+291,Canada,North America
+292,Canada,North America
+293,Canada,North America
+294,Germany,Europe
+295,USA,North America
+296,UK,Europe
+297,India,Asia
+298,India,Asia
+299,UK,Europe
+300,Germany,Europe
+301,India,Asia
+302,Canada,North America
+303,India,Asia
+304,USA,North America
+305,USA,North America
+306,UK,Europe
+307,Germany,Europe
+308,Australia,APAC
+309,Australia,APAC
+310,Germany,Europe
+311,India,Asia
+312,Germany,Europe
+313,Germany,Europe
+314,India,Asia
+315,USA,North America
+316,Canada,North America
+317,UK,Europe
+318,Australia,APAC
+319,USA,North America
+320,Germany,Europe
+321,Germany,Europe
+322,Australia,APAC
+323,India,Asia
+324,UK,Europe
+325,Canada,North America
+326,India,Asia
+327,Australia,APAC
+328,India,Asia
+329,Canada,North America
+330,Canada,North America
+331,Germany,Europe
+332,India,Asia
+333,USA,North America
+334,USA,North America
+335,India,Asia
+336,Canada,North America
+337,UK,Europe
+338,Canada,North America
+339,Canada,North America
+340,UK,Europe
+341,Australia,APAC
+342,Canada,North America
+343,UK,Europe
+344,India,Asia
+345,UK,Europe
+346,USA,North America
+347,UK,Europe
+348,Canada,North America
+349,Australia,APAC
+350,India,Asia
+351,UK,Europe
+352,Canada,North America
+353,Australia,APAC
+354,UK,Europe
+355,India,Asia
+356,India,Asia
+357,USA,North America
+358,India,Asia
+359,Australia,APAC
+360,Canada,North America
+361,India,Asia
+362,India,Asia
+363,Canada,North America
+364,Canada,North America
+365,Australia,APAC
+366,India,Asia
+367,Australia,APAC
+368,India,Asia
+369,UK,Europe
+370,India,Asia
+371,USA,North America
+372,USA,North America
+373,USA,North America
+374,USA,North America
+375,Australia,APAC
+376,India,Asia
+377,UK,Europe
+378,Australia,APAC
+379,Canada,North America
+380,India,Asia
+381,Germany,Europe
+382,India,Asia
+383,Australia,APAC
+384,USA,North America
+385,Germany,Europe
+386,Australia,APAC
+387,India,Asia
+388,UK,Europe
+389,Australia,APAC
+390,UK,Europe
+391,Germany,Europe
+392,Canada,North America
+393,Australia,APAC
+394,Germany,Europe
+395,UK,Europe
+396,Germany,Europe
+397,USA,North America
+398,Australia,APAC
+399,USA,North America
+400,Canada,North America
+401,Germany,Europe
+402,Germany,Europe
+403,Germany,Europe
+404,Germany,Europe
+405,Canada,North America
+406,UK,Europe
+407,India,Asia
+408,Canada,North America
+409,UK,Europe
+410,Australia,APAC
+411,UK,Europe
+412,Australia,APAC
+413,UK,Europe
+414,Germany,Europe
+415,Canada,North America
+416,UK,Europe
+417,India,Asia
+418,India,Asia
+419,USA,North America
+420,UK,Europe
+421,Canada,North America
+422,Germany,Europe
+423,USA,North America
+424,UK,Europe
+425,Germany,Europe
+426,Canada,North America
+427,Canada,North America
+428,USA,North America
+429,USA,North America
+430,UK,Europe
+431,Germany,Europe
+432,India,Asia
+433,Germany,Europe
+434,Canada,North America
+435,Canada,North America
+436,UK,Europe
+437,India,Asia
+438,Australia,APAC
+439,UK,Europe
+440,Canada,North America
+441,Canada,North America
+442,Germany,Europe
+443,India,Asia
+444,Germany,Europe
+445,Germany,Europe
+446,UK,Europe
+447,Germany,Europe
+448,USA,North America
+449,USA,North America
+450,Germany,Europe
+451,India,Asia
+452,Germany,Europe
+453,Canada,North America
+454,Canada,North America
+455,India,Asia
+456,UK,Europe
+457,USA,North America
+458,USA,North America
+459,UK,Europe
+460,Germany,Europe
+461,India,Asia
+462,Australia,APAC
+463,Australia,APAC
+464,Germany,Europe
+465,UK,Europe
+466,India,Asia
+467,USA,North America
+468,USA,North America
+469,Germany,Europe
+470,Canada,North America
+471,UK,Europe
+472,Australia,APAC
+473,UK,Europe
+474,Germany,Europe
+475,UK,Europe
+476,USA,North America
+477,Germany,Europe
+478,USA,North America
+479,India,Asia
+480,India,Asia
+481,Canada,North America
+482,UK,Europe
+483,India,Asia
+484,UK,Europe
+485,USA,North America
+486,Germany,Europe
+487,India,Asia
+488,Germany,Europe
+489,India,Asia
+490,UK,Europe
+491,India,Asia
+492,Australia,APAC
+493,India,Asia
+494,USA,North America
+495,Canada,North America
+496,USA,North America
+497,Germany,Europe
+498,UK,Europe
+499,UK,Europe
+500,India,Asia
+501,UK,Europe
+502,Canada,North America
+503,Canada,North America
+504,India,Asia
+505,India,Asia
+506,Germany,Europe
+507,India,Asia
+508,USA,North America
+509,USA,North America
+510,USA,North America
+511,Canada,North America
+512,Australia,APAC
+513,UK,Europe
+514,Germany,Europe
+515,India,Asia
+516,Germany,Europe
+517,Canada,North America
+518,India,Asia
+519,India,Asia
+520,Canada,North America
+521,UK,Europe
+522,India,Asia
+523,UK,Europe
+524,Canada,North America
+525,Germany,Europe
+526,India,Asia
+527,Australia,APAC
+528,UK,Europe
+529,India,Asia
+530,UK,Europe
+531,India,Asia
+532,India,Asia
+533,India,Asia
+534,Germany,Europe
+535,Australia,APAC
+536,India,Asia
+537,UK,Europe
+538,Germany,Europe
+539,USA,North America
+540,UK,Europe
+541,UK,Europe
+542,Australia,APAC
+543,USA,North America
+544,Germany,Europe
+545,India,Asia
+546,UK,Europe
+547,Australia,APAC
+548,Australia,APAC
+549,Australia,APAC
+550,USA,North America
+551,India,Asia
+552,Germany,Europe
+553,UK,Europe
+554,Australia,APAC
+555,India,Asia
+556,India,Asia
+557,Canada,North America
+558,Australia,APAC
+559,USA,North America
+560,India,Asia
+561,Germany,Europe
+562,Canada,North America
+563,India,Asia
+564,Australia,APAC
+565,Australia,APAC
+566,India,Asia
+567,Germany,Europe
+568,Canada,North America
+569,Australia,APAC
+570,Canada,North America
+571,USA,North America
+572,India,Asia
+573,Australia,APAC
+574,USA,North America
+575,Canada,North America
+576,USA,North America
+577,Germany,Europe
+578,UK,Europe
+579,Germany,Europe
+580,Canada,North America
+581,Germany,Europe
+582,Australia,APAC
+583,Canada,North America
+584,Germany,Europe
+585,India,Asia
+586,India,Asia
+587,Germany,Europe
+588,Australia,APAC
+589,Australia,APAC
+590,USA,North America
+591,Australia,APAC
+592,Canada,North America
+593,India,Asia
+594,Canada,North America
+595,India,Asia
+596,UK,Europe
+597,Australia,APAC
+598,Germany,Europe
+599,India,Asia
+600,Germany,Europe
+601,UK,Europe
+602,Canada,North America
+603,Germany,Europe
+604,India,Asia
+605,UK,Europe
+606,India,Asia
+607,UK,Europe
+608,Australia,APAC
+609,Australia,APAC
+610,Australia,APAC
+611,Australia,APAC
+612,Australia,APAC
+613,UK,Europe
+614,India,Asia
+615,Germany,Europe
+616,Canada,North America
+617,Canada,North America
+618,UK,Europe
+619,India,Asia
+620,UK,Europe
+621,Canada,North America
+622,UK,Europe
+623,UK,Europe
+624,Australia,APAC
+625,Canada,North America
+626,Australia,APAC
+627,Australia,APAC
+628,Germany,Europe
+629,UK,Europe
+630,Germany,Europe
+631,UK,Europe
+632,India,Asia
+633,Australia,APAC
+634,UK,Europe
+635,UK,Europe
+636,USA,North America
+637,India,Asia
+638,Australia,APAC
+639,India,Asia
+640,Germany,Europe
+641,Germany,Europe
+642,UK,Europe
+643,Canada,North America
+644,UK,Europe
+645,USA,North America
+646,UK,Europe
+647,Australia,APAC
+648,USA,North America
+649,UK,Europe
+650,Germany,Europe
+651,Australia,APAC
+652,UK,Europe
+653,Australia,APAC
+654,Germany,Europe
+655,Canada,North America
+656,Canada,North America
+657,India,Asia
+658,UK,Europe
+659,India,Asia
+660,Australia,APAC
+661,UK,Europe
+662,Canada,North America
+663,USA,North America
+664,India,Asia
+665,Australia,APAC
+666,India,Asia
+667,Canada,North America
+668,Canada,North America
+669,USA,North America
+670,Australia,APAC
+671,India,Asia
+672,Canada,North America
+673,Australia,APAC
+674,Canada,North America
+675,USA,North America
+676,USA,North America
+677,Germany,Europe
+678,UK,Europe
+679,Australia,APAC
+680,Germany,Europe
+681,USA,North America
+682,Australia,APAC
+683,Canada,North America
+684,USA,North America
+685,India,Asia
+686,Canada,North America
+687,Germany,Europe
+688,Australia,APAC
+689,Germany,Europe
+690,Germany,Europe
+691,Australia,APAC
+692,Canada,North America
+693,UK,Europe
+694,UK,Europe
+695,UK,Europe
+696,Australia,APAC
+697,USA,North America
+698,USA,North America
+699,Australia,APAC
+700,India,Asia
+701,Canada,North America
+702,India,Asia
+703,Australia,APAC
+704,Australia,APAC
+705,USA,North America
+706,Canada,North America
+707,Germany,Europe
+708,Canada,North America
+709,USA,North America
+710,Germany,Europe
+711,Germany,Europe
+712,Canada,North America
+713,Australia,APAC
+714,UK,Europe
+715,USA,North America
+716,USA,North America
+717,UK,Europe
+718,India,Asia
+719,India,Asia
+720,USA,North America
+721,UK,Europe
+722,UK,Europe
+723,Germany,Europe
+724,Australia,APAC
+725,India,Asia
+726,India,Asia
+727,Germany,Europe
+728,Canada,North America
+729,India,Asia
+730,Germany,Europe
+731,UK,Europe
+732,Canada,North America
+733,USA,North America
+734,UK,Europe
+735,Canada,North America
+736,Australia,APAC
+737,Germany,Europe
+738,Australia,APAC
+739,UK,Europe
+740,Australia,APAC
+741,Canada,North America
+742,USA,North America
+743,Australia,APAC
+744,UK,Europe
+745,UK,Europe
+746,India,Asia
+747,Australia,APAC
+748,Canada,North America
+749,Canada,North America
+750,India,Asia
+751,Australia,APAC
+752,Germany,Europe
+753,Germany,Europe
+754,India,Asia
+755,UK,Europe
+756,USA,North America
+757,Germany,Europe
+758,Australia,APAC
+759,USA,North America
+760,Canada,North America
+761,Canada,North America
+762,Germany,Europe
+763,UK,Europe
+764,Canada,North America
+765,USA,North America
+766,UK,Europe
+767,Germany,Europe
+768,Canada,North America
+769,Germany,Europe
+770,UK,Europe
+771,UK,Europe
+772,UK,Europe
+773,India,Asia
+774,Australia,APAC
+775,India,Asia
+776,USA,North America
+777,UK,Europe
+778,Australia,APAC
+779,UK,Europe
+780,Australia,APAC
+781,Canada,North America
+782,USA,North America
+783,Australia,APAC
+784,USA,North America
+785,Germany,Europe
+786,UK,Europe
+787,Canada,North America
+788,Germany,Europe
+789,Australia,APAC
+790,India,Asia
+791,Australia,APAC
+792,UK,Europe
+793,Australia,APAC
+794,USA,North America
+795,Australia,APAC
+796,UK,Europe
+797,UK,Europe
+798,India,Asia
+799,Canada,North America
+800,Canada,North America
+801,Canada,North America
+802,Germany,Europe
+803,Canada,North America
+804,Germany,Europe
+805,Australia,APAC
+806,India,Asia
+807,UK,Europe
+808,Germany,Europe
+809,Australia,APAC
+810,India,Asia
+811,Germany,Europe
+812,India,Asia
+813,Australia,APAC
+814,Canada,North America
+815,Canada,North America
+816,Australia,APAC
+817,India,Asia
+818,USA,North America
+819,India,Asia
+820,Germany,Europe
+821,India,Asia
+822,Australia,APAC
+823,UK,Europe
+824,USA,North America
+825,India,Asia
+826,USA,North America
+827,USA,North America
+828,India,Asia
+829,India,Asia
+830,Canada,North America
+831,India,Asia
+832,India,Asia
+833,Canada,North America
+834,Canada,North America
+835,UK,Europe
+836,India,Asia
+837,Germany,Europe
+838,USA,North America
+839,Australia,APAC
+840,Canada,North America
+841,Australia,APAC
+842,India,Asia
+843,Germany,Europe
+844,USA,North America
+845,India,Asia
+846,Germany,Europe
+847,USA,North America
+848,Germany,Europe
+849,Canada,North America
+850,India,Asia
+851,Germany,Europe
+852,Germany,Europe
+853,India,Asia
+854,USA,North America
+855,India,Asia
+856,Germany,Europe
+857,Australia,APAC
+858,UK,Europe
+859,Australia,APAC
+860,USA,North America
+861,Germany,Europe
+862,UK,Europe
+863,USA,North America
+864,Australia,APAC
+865,Canada,North America
+866,India,Asia
+867,USA,North America
+868,USA,North America
+869,Germany,Europe
+870,UK,Europe
+871,Australia,APAC
+872,USA,North America
+873,India,Asia
+874,USA,North America
+875,USA,North America
+876,Germany,Europe
+877,USA,North America
+878,UK,Europe
+879,Germany,Europe
+880,Canada,North America
+881,Canada,North America
+882,Australia,APAC
+883,Australia,APAC
+884,Australia,APAC
+885,Germany,Europe
+886,UK,Europe
+887,Germany,Europe
+888,Germany,Europe
+889,Germany,Europe
+890,Germany,Europe
+891,USA,North America
+892,Australia,APAC
+893,Australia,APAC
+894,India,Asia
+895,Canada,North America
+896,Australia,APAC
+897,UK,Europe
+898,USA,North America
+899,Canada,North America
+900,India,Asia
+901,Germany,Europe
+902,India,Asia
+903,Canada,North America
+904,Australia,APAC
+905,Canada,North America
+906,USA,North America
+907,USA,North America
+908,UK,Europe
+909,Germany,Europe
+910,Australia,APAC
+911,Australia,APAC
+912,India,Asia
+913,Germany,Europe
+914,India,Asia
+915,Germany,Europe
+916,Canada,North America
+917,Canada,North America
+918,Germany,Europe
+919,UK,Europe
+920,Canada,North America
+921,UK,Europe
+922,Canada,North America
+923,Australia,APAC
+924,USA,North America
+925,USA,North America
+926,Australia,APAC
+927,Germany,Europe
+928,India,Asia
+929,USA,North America
+930,Canada,North America
+931,Canada,North America
+932,USA,North America
+933,USA,North America
+934,India,Asia
+935,USA,North America
+936,Germany,Europe
+937,India,Asia
+938,Australia,APAC
+939,Australia,APAC
+940,USA,North America
+941,Canada,North America
+942,Australia,APAC
+943,USA,North America
+944,Germany,Europe
+945,Germany,Europe
+946,Canada,North America
+947,India,Asia
+948,Canada,North America
+949,USA,North America
+950,Canada,North America
+951,India,Asia
+952,UK,Europe
+953,Canada,North America
+954,Australia,APAC
+955,India,Asia
+956,UK,Europe
+957,India,Asia
+958,India,Asia
+959,Australia,APAC
+960,UK,Europe
+961,Canada,North America
+962,UK,Europe
+963,Canada,North America
+964,Australia,APAC
+965,India,Asia
+966,Canada,North America
+967,Germany,Europe
+968,UK,Europe
+969,UK,Europe
+970,USA,North America
+971,India,Asia
+972,India,Asia
+973,Australia,APAC
+974,Canada,North America
+975,Australia,APAC
+976,Australia,APAC
+977,Germany,Europe
+978,India,Asia
+979,Germany,Europe
+980,USA,North America
+981,UK,Europe
+982,Australia,APAC
+983,Australia,APAC
+984,Germany,Europe
+985,India,Asia
+986,UK,Europe
+987,Australia,APAC
+988,Germany,Europe
+989,Germany,Europe
+990,Canada,North America
+991,UK,Europe
+992,Germany,Europe
+993,Canada,North America
+994,India,Asia
+995,Germany,Europe
+996,Canada,North America
+997,Canada,North America
+998,UK,Europe
+999,Australia,APAC
+1000,Canada,North America
